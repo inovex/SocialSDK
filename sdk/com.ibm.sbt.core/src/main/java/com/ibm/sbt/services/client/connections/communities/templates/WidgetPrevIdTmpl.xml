@@ -1,0 +1,1 @@
+<snx:previousWidgetInstanceId>${previousWidgetInstanceId}</snx:previousWidgetInstanceId>  <!-- No widget instance id =>  this is the first widget in the column -->
